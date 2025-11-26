@@ -1,0 +1,11 @@
+{
+  "name": "clickup-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "axios": "^1.0.0",
+    "crypto": "^1.0.1"
+  }
+}
